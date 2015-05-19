@@ -1,0 +1,77 @@
+body {
+
+	background-image: url("cat print.jpg");
+	margin: 0;
+	padding: 0;
+
+}
+
+P.special {
+color : green;
+border: solid red;
+}
+
+@font-face {
+    font-family: 'caviar-dreams'; 
+    src: url('http://www.fontsquirrel.com/fonts/caviar-dreams'); /*URL to font*/
+}
+
+.classname {
+    font-family: 'caviar-dreams';
+}
+(.classname
+
+}
+
+
+@import "tumblr1.css";
+
+#wrapper {
+	width: 700px;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	float: left;
+	background: #dddddd;
+}
+
+#header {
+	width: 700px;
+	height: 100px;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	float: left;
+	background: #ffccff;
+}
+
+#left-menu {
+	width: 200px;
+	height: 300px;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	float: left;
+	background: #ffff99;
+	text-align: center;
+}
+
+#right-content {
+	width: 500px;
+	height: 300px;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	float: left;
+	background: #c0c0c0;
+}
+
+#footer {
+	width: 700px;
+	height: 70px;
+	margin: 0;
+	padding: 0;
+        border: 0;
+        float: left;
+        background: #ccff99;
+}
